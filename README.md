@@ -1,7 +1,8 @@
 # Premium Watches
 Home Page
+![Screenshot (415)](https://user-images.githubusercontent.com/81297619/185293277-56010b43-fe51-4fb6-9ebf-89271d1a5cf2.png)
 
-![Screenshot (411)](https://user-images.githubusercontent.com/81297619/185286083-fb7a6675-1ad5-4223-86b5-359c40dc543d.png)
+
 
 Contact Us
 
