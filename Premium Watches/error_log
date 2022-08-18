@@ -1,0 +1,4 @@
+[18-Aug-2022 09:54:30 Asia/Kolkata] PHP Notice:  Undefined variable: uname in /home/kanhadeveloper/public_html/project/functions.php on line 33
+[18-Aug-2022 09:55:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /home/kanhadeveloper/public_html/project/functions.php on line 37
+[18-Aug-2022 09:55:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /home/kanhadeveloper/public_html/project/functions.php on line 37
+[18-Aug-2022 09:57:44 Asia/Kolkata] PHP Notice:  Undefined index: username in /home/kanhadeveloper/public_html/project/functions.php on line 7
